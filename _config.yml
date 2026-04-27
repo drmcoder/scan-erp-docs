@@ -1,0 +1,27 @@
+title: Scan ERP Documentation
+description: Public documentation for Scan ERP — QR-based ERP for CMT garment factories. 50+ guides, hardware integration, SMV/SAM calculation, and architecture.
+url: https://drmcoder.github.io
+baseurl: /scan-erp-docs
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+google_analytics: G-3GY21X162T
+author:
+  name: Santosh Rijal
+  email: santoshrijal41@gmail.com
+twitter:
+  username: scanerp
+github_username: drmcoder
+social:
+  name: Scan ERP
+  links:
+    - https://scan-erp.web.app
+    - https://github.com/drmcoder
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: Santosh Rijal
