@@ -19,7 +19,7 @@ Where:
 
 ### Free Tools
 
-- 🌐 [Online SAM/SMV Calculator](https://scan-erp.web.app/blog/sam-smv-calculation-garment-industry.html)
+- 🌐 [Online SAM/SMV Calculator](https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html)
 - 📦 [garment-smv-calculator NPM package](https://www.npmjs.com/package/garment-smv-calculator)
 
 ### Quick Code Example
@@ -34,7 +34,7 @@ const smv = calculateSMV({
 // → 0.41 minutes per piece
 ```
 
-[Read full SMV guide →](https://scan-erp.web.app/blog/sam-smv-calculation-garment-industry.html)
+[Read full SMV guide →](https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html)
 
 ## Piece-Rate Wage
 
@@ -42,7 +42,7 @@ const smv = calculateSMV({
 
 ### Free Tools
 
-- 🌐 [Online Piece-Rate Calculator](https://scan-erp.web.app/tools/piece-rate-calculator.html)
+- 🌐 [Online Piece-Rate Calculator](https://scanerp.pro/tools/piece-rate-calculator.html)
 - 📦 [garment-piece-rate NPM package](https://www.npmjs.com/package/garment-piece-rate)
 
 ### Quick Code Example
@@ -60,7 +60,7 @@ const wage = calculatePieceRate({
 // → { gross: 906.95, breakdown: {...} }
 ```
 
-[Read full piece-rate guide →](https://scan-erp.web.app/blog/piece-rate-payment-calculation-garment-factory.html)
+[Read full piece-rate guide →](https://scanerp.pro/blog/piece-rate-payment-calculation-garment-factory.html)
 
 ## Bundle ID
 
@@ -83,13 +83,13 @@ const id = generateBundleId({
 // → "S27-8082-BLUE-M-001-FRT"
 ```
 
-[Read full QR bundle tracking guide →](https://scan-erp.web.app/blog/qr-code-production-tracking-garment-factory.html)
+[Read full QR bundle tracking guide →](https://scanerp.pro/blog/qr-code-production-tracking-garment-factory.html)
 
 ## Related Reading
 
-- [How to Calculate SMV (Stopwatch Method)](https://scan-erp.web.app/blog/how-to-calculate-smv-stopwatch-method-garment-industry.html)
-- [SMV Calculation Software](https://scan-erp.web.app/blog/smv-calculation-software-garment-industry.html)
-- [SAM Values Reference Table](https://scan-erp.web.app/blog/sam-values-basic-garments-reference-table.html)
-- [SMV Costing for CMT Pricing](https://scan-erp.web.app/blog/smv-costing-cmt-pricing-garment-factory.html)
+- [How to Calculate SMV (Stopwatch Method)](https://scanerp.pro/blog/how-to-calculate-smv-stopwatch-method-garment-industry.html)
+- [SMV Calculation Software](https://scanerp.pro/blog/smv-calculation-software-garment-industry.html)
+- [SAM Values Reference Table](https://scanerp.pro/blog/sam-values-basic-garments-reference-table.html)
+- [SMV Costing for CMT Pricing](https://scanerp.pro/blog/smv-costing-cmt-pricing-garment-factory.html)
 
 [← Back to home](/scan-erp-docs/)

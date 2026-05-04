@@ -66,6 +66,6 @@ Different Android phones detect QR codes with different libraries best:
 
 Running all 3 in parallel and taking the first success: 95-99% accuracy on $50 phones.
 
-[Read more on QR scanning →](https://scan-erp.web.app/blog/qr-code-production-tracking-garment-factory.html)
+[Read more on QR scanning →](https://scanerp.pro/blog/qr-code-production-tracking-garment-factory.html)
 
 [← Back to home](/scan-erp-docs/)

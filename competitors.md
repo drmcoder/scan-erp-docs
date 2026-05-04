@@ -15,14 +15,14 @@ Honest, head-to-head comparisons of Scan ERP vs major garment ERP competitors. E
 
 | Competitor | Best fit for them | Comparison |
 |-----------|-------------------|-----------|
-| **PROTRACKER** (Bangladesh) | 300-3000+ ops, BGMEA factories | [Scan ERP vs PROTRACKER](https://scan-erp.web.app/blog/protracker-alternative-scan-erp-comparison.html) |
-| **WFX Smart Factory** | Multi-factory enterprise apparel | [Scan ERP vs WFX](https://scan-erp.web.app/blog/wfx-alternative-scan-erp-comparison.html) |
-| **FastReact** | 200+ machine factories | [Scan ERP vs FastReact](https://scan-erp.web.app/blog/fastreact-alternative-scan-erp-comparison.html) |
-| **Stitch-MES** | Indian mid-market | [Scan ERP vs Stitch-MES](https://scan-erp.web.app/blog/stitch-mes-alternative-scan-erp.html) |
-| **Centric Software** | PLM-integrated brands | [Scan ERP vs Centric](https://scan-erp.web.app/blog/centric-software-alternative-scan-erp.html) |
-| **AIMS360** | US fashion brands | [Scan ERP vs AIMS360](https://scan-erp.web.app/blog/aims360-alternative-scan-erp-comparison.html) |
-| **ApparelMagic** | Inventory + sales focus | [Scan ERP vs ApparelMagic](https://scan-erp.web.app/blog/apparelmagic-alternative-scan-erp-comparison.html) |
-| **goRMG** | Bangladesh RMG vendors | [Scan ERP vs goRMG](https://scan-erp.web.app/blog/gormg-alternative-scan-erp-bangladesh.html) |
+| **PROTRACKER** (Bangladesh) | 300-3000+ ops, BGMEA factories | [Scan ERP vs PROTRACKER](https://scanerp.pro/blog/protracker-alternative-scan-erp-comparison.html) |
+| **WFX Smart Factory** | Multi-factory enterprise apparel | [Scan ERP vs WFX](https://scanerp.pro/blog/wfx-alternative-scan-erp-comparison.html) |
+| **FastReact** | 200+ machine factories | [Scan ERP vs FastReact](https://scanerp.pro/blog/fastreact-alternative-scan-erp-comparison.html) |
+| **Stitch-MES** | Indian mid-market | [Scan ERP vs Stitch-MES](https://scanerp.pro/blog/stitch-mes-alternative-scan-erp.html) |
+| **Centric Software** | PLM-integrated brands | [Scan ERP vs Centric](https://scanerp.pro/blog/centric-software-alternative-scan-erp.html) |
+| **AIMS360** | US fashion brands | [Scan ERP vs AIMS360](https://scanerp.pro/blog/aims360-alternative-scan-erp-comparison.html) |
+| **ApparelMagic** | Inventory + sales focus | [Scan ERP vs ApparelMagic](https://scanerp.pro/blog/apparelmagic-alternative-scan-erp-comparison.html) |
+| **goRMG** | Bangladesh RMG vendors | [Scan ERP vs goRMG](https://scanerp.pro/blog/gormg-alternative-scan-erp-bangladesh.html) |
 
 ## When NOT to Choose Scan ERP
 
@@ -35,8 +35,8 @@ We're honest about fit — these scenarios point you elsewhere:
 
 ## See Also
 
-- [Real-Time Garment Production Tracking System: 2026 Guide](https://scan-erp.web.app/blog/garment-production-tracking-system-2026-guide.html)
-- [Best Garment Manufacturing ERP Software](https://scan-erp.web.app/blog/best-garment-manufacturing-erp-software.html)
-- [11 Questions Before Buying Garment Factory Software](https://scan-erp.web.app/blog/11-questions-before-buying-garment-factory-software.html)
+- [Real-Time Garment Production Tracking System: 2026 Guide](https://scanerp.pro/blog/garment-production-tracking-system-2026-guide.html)
+- [Best Garment Manufacturing ERP Software](https://scanerp.pro/blog/best-garment-manufacturing-erp-software.html)
+- [11 Questions Before Buying Garment Factory Software](https://scanerp.pro/blog/11-questions-before-buying-garment-factory-software.html)
 
 [← Back to home](/scan-erp-docs/)

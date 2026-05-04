@@ -20,7 +20,7 @@ Scan ERP is purpose-built for **CMT (Cut-Make-Trim) garment factories with 10-30
 ✅ Budget under $20K/year for production tracking software
 
 ❌ Not the right fit if:
-- You're a 1,000+ operator factory (need enterprise — see [WFX, PROTRACKER alternatives](https://scan-erp.web.app/blog/wfx-alternative-scan-erp-comparison.html))
+- You're a 1,000+ operator factory (need enterprise — see [WFX, PROTRACKER alternatives](https://scanerp.pro/blog/wfx-alternative-scan-erp-comparison.html))
 - You're a brand managing vendor production (use TrackIT)
 - You need PLM integration with Centric/Aptean
 
@@ -32,11 +32,11 @@ Scan ERP is purpose-built for **CMT (Cut-Make-Trim) garment factories with 10-30
 | Growth | $500-1,200/mo | 50-150 machines |
 | Scale | $1,500-3,000/mo | 150-300+ machines |
 
-[Detailed pricing →](https://scan-erp.web.app/pricing.html)
+[Detailed pricing →](https://scanerp.pro/pricing.html)
 
 ## 30-Day Free Trial
 
-1. Visit [scan-erp.web.app](https://scan-erp.web.app/)
+1. Visit [scanerp.pro](https://scanerp.pro/)
 2. Click "Free Demo" or message us on [WhatsApp +977-9863618347](https://wa.me/9779863618347)
 3. We set up your factory in 2-4 weeks
 4. Full feature access during trial — no credit card
@@ -48,7 +48,7 @@ Scan ERP is purpose-built for **CMT (Cut-Make-Trim) garment factories with 10-30
 - **Days 31-60:** Roll out factory-wide
 - **Days 61-90:** Stabilize, tune SAM values, integrate with attendance/payroll
 
-[Read full implementation guide →](https://scan-erp.web.app/blog/garment-production-tracking-system-2026-guide.html)
+[Read full implementation guide →](https://scanerp.pro/blog/garment-production-tracking-system-2026-guide.html)
 
 ## What You Need to Provide
 
@@ -71,6 +71,6 @@ People:
 
 1. Read [Architecture overview](architecture.html)
 2. Read [Country Guides](country-guides.html) for your region
-3. [Request a demo](https://scan-erp.web.app/#contact)
+3. [Request a demo](https://scanerp.pro/#contact)
 
 [← Back to home](/scan-erp-docs/)

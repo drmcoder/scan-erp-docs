@@ -17,7 +17,7 @@ EU buyers under CSRD/CBAM requirements increasingly require operation-level trac
 
 EU regulation requiring digital product information for textiles by 2027.
 
-- [Digital Product Passport for Garment Factories](https://scan-erp.web.app/blog/digital-product-passport-garment-factory.html)
+- [Digital Product Passport for Garment Factories](https://scanerp.pro/blog/digital-product-passport-garment-factory.html)
 - What it requires: Material composition, country of origin, recyclability, repair info
 - How Scan ERP helps: Bundle-level traceability captures origin data automatically
 
@@ -25,7 +25,7 @@ EU regulation requiring digital product information for textiles by 2027.
 
 EU regulation requiring detailed sustainability disclosures from large companies and their suppliers.
 
-- [CSRD Garment Factory Reporting](https://scan-erp.web.app/blog/csrd-garment-factory-reporting.html)
+- [CSRD Garment Factory Reporting](https://scanerp.pro/blog/csrd-garment-factory-reporting.html)
 - Affects EU buyers' tier-1 suppliers
 - Scan ERP captures: Production records, energy use proxies, worker count
 
@@ -33,7 +33,7 @@ EU regulation requiring detailed sustainability disclosures from large companies
 
 EU carbon import tariff phasing in 2026-2034.
 
-- [CBAM Garment Factory Guide](https://scan-erp.web.app/blog/cbam-garment-factory-guide.html)
+- [CBAM Garment Factory Guide](https://scanerp.pro/blog/cbam-garment-factory-guide.html)
 - Requires: Embedded carbon reporting per shipment
 - Scan ERP integration: Per-bundle carbon footprint estimates
 
@@ -41,7 +41,7 @@ EU carbon import tariff phasing in 2026-2034.
 
 Scope 1, 2, and 3 emissions tracking adapted for garment factories.
 
-- [Garment Factory Carbon Footprint Tracking](https://scan-erp.web.app/blog/garment-factory-carbon-footprint-tracking.html)
+- [Garment Factory Carbon Footprint Tracking](https://scanerp.pro/blog/garment-factory-carbon-footprint-tracking.html)
 - Energy consumption data
 - Material flow tracking
 - Transport emissions

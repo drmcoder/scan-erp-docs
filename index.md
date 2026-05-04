@@ -7,10 +7,10 @@ permalink: /
 
 # Scan ERP — Documentation Hub
 
-> Public documentation, architecture notes, and 50+ guides for [Scan ERP](https://scan-erp.web.app/) — a QR-based ERP system for CMT garment factories.
+> Public documentation, architecture notes, and 50+ guides for [Scan ERP](https://scanerp.pro/) — a QR-based ERP system for CMT garment factories.
 
-[![Website](https://img.shields.io/badge/Live%20Site-scan--erp.web.app-2563eb)](https://scan-erp.web.app/)
-[![Try Free](https://img.shields.io/badge/Free%20Trial-30%20days-22c55e)](https://scan-erp.web.app/#contact)
+[![Website](https://img.shields.io/badge/Live%20Site-scan--erp.web.app-2563eb)](https://scanerp.pro/)
+[![Try Free](https://img.shields.io/badge/Free%20Trial-30%20days-22c55e)](https://scanerp.pro/#contact)
 
 ## What is Scan ERP?
 
@@ -30,11 +30,11 @@ Scan ERP is a purpose-built ERP for **CMT (Cut-Make-Trim) garment manufacturing 
 
 ## 🔗 Quick Links to Live Site
 
-- 🌐 [Main site](https://scan-erp.web.app/)
-- 📰 [Blog with 50+ guides](https://scan-erp.web.app/blog/)
-- 💰 [Pricing](https://scan-erp.web.app/pricing.html)
-- 🧮 [Free piece-rate calculator](https://scan-erp.web.app/tools/piece-rate-calculator.html)
-- 📊 [Free SMV/SAM calculator](https://scan-erp.web.app/blog/sam-smv-calculation-garment-industry.html)
+- 🌐 [Main site](https://scanerp.pro/)
+- 📰 [Blog with 50+ guides](https://scanerp.pro/blog/)
+- 💰 [Pricing](https://scanerp.pro/pricing.html)
+- 🧮 [Free piece-rate calculator](https://scanerp.pro/tools/piece-rate-calculator.html)
+- 📊 [Free SMV/SAM calculator](https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html)
 - 📱 WhatsApp: +977-9863618347
 
 ## 📦 Open Source NPM Packages
@@ -55,10 +55,10 @@ npm install garment-smv-calculator garment-piece-rate garment-bundle-id
 
 ## 📞 Contact
 
-- Website: [scan-erp.web.app](https://scan-erp.web.app/)
+- Website: [scanerp.pro](https://scanerp.pro/)
 - WhatsApp: [+977-9863618347](https://wa.me/9779863618347)
 - GitHub: [@drmcoder](https://github.com/drmcoder)
-- Demo request: [scan-erp.web.app/#contact](https://scan-erp.web.app/#contact)
+- Demo request: [scanerp.pro/#contact](https://scanerp.pro/#contact)
 
 ---
 
